@@ -3,7 +3,11 @@ This repository includes the first coursework assignment for the Information Ret
 
 # Concepts
 -PyTerrier
+
 -Comparing TFIDF, BM25, and PL2 on their ability to rank documents (evaluating using MAP)
+
 -Interpolated recall-precision graphs
+
 -Query Expansion
+
 -Word2Vec / Word Embeddings
